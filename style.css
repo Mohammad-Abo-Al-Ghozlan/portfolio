@@ -109,6 +109,12 @@ section {
     border-radius: 2px;
 }
 
+.dis-btn {
+    pointer-events: none;
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
 /* ===== CUSTOM CURSOR ===== */
 .cursor {
     position: fixed;
